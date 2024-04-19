@@ -22,9 +22,9 @@ Hey! Schön, von dir zu hören. Was geht bei dir, was hast du Neues erlebt? Ich 
 
 bot = Chatbot(
     database_file="database/chatbot.db", 
-    type_id="friend",
+    type_id="remember",
     user_id="lizzy",
-    type_name="Friend",
+    type_name="Help",
     type_role=my_type_role,
     instance_context=my_instance_context,
     instance_starter=my_instance_starter
